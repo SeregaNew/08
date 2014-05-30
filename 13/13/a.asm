@@ -1,3 +1,4 @@
+; it isn't completed up to the end
 .386 
 PUBLIC @Check@8 
 .model flat 
